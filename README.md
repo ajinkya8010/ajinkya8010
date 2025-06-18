@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ajinkya Walunj
 **A passionate Software, AI Developer and a Tech Enthusiast from India**
 
-Email Me 👉 ✉️ **ajinkya8975@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email 👉 ✉️ **ajinkya8975@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 Know more about me and my work 👉 https://www.ajinkyawalunj.me
 
