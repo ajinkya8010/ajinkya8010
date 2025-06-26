@@ -8,7 +8,8 @@ Know more about me and my work 👉 https://www.ajinkyawalunj.me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajinkya_4_5_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkya-walunj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jinks4518)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+<img src="https://komarev.com/ghpvc/?username=ajinkya8010&label=Profile%20Views&color=00FFFF&style=flat" alt="visitors" />
 
 <!-- Snake Game Repo View -->
 
