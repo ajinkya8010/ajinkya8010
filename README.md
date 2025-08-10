@@ -28,7 +28,7 @@ Know more about me and my work 👉 https://www.ajinkyawalunj.me
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajinkya8010&theme=dark&hide_border=false)
 
 
-### ✍️ Quote of the Day
+### ✍️ Quote of the Day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
